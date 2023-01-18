@@ -1,0 +1,12 @@
+481 391 dupa search
+615 683 videoclipuri
+311 498 youtube link in new file
+
+811 146 search bar yt
+
+primu vid: 224 766
+al doilea vid: 630 766
+al 3-lea: 1019
+
+scroll bar sus: 1910 264
+scroll bar un rand mai jos: 1910, 468
