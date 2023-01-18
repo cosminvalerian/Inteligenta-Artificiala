@@ -1,0 +1,4 @@
+Vremea: few clouds
+Temperatura: 2.25
+Vant: 5.81
+Umiditate: 65
